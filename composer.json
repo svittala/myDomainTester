@@ -1,0 +1,17 @@
+{
+    "name": "svittala/my-domain-tester",
+    "description": "salesforce login page component",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Svittala\\MyDomainTester\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "siva vittala",
+            "email": "svittala@hotmail.com"
+        }
+    ],
+    "require": {}
+}
